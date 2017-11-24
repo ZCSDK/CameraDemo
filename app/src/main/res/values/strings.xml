@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="hello_world2">启动</string>
+    <string name="hint_text">请输入h5地址</string>
+</resources>
