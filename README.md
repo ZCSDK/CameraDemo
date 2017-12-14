@@ -8,5 +8,7 @@
 # 在demo module 中   VoiceActivity是关于语音的功能
 
 sendType == 0  正在录音
+
 sendType == 1  发送录音
+
 sendType == 2  取消录音
