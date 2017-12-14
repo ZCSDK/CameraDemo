@@ -4,6 +4,9 @@
 一个按钮 调用照相机
 并且 把图片显示到ImageView上
 
+在项目中直接使用：
+compile 'com.sobot.camera:camera_tools:1.2'
+
 
 # 在demo module 中   VoiceActivity是关于语音的功能
 
