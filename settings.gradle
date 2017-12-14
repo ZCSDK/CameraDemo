@@ -1,1 +1,1 @@
-include ':camera_tools', ':demo', ':voice_tools'
+include ':camera_tools', ':demo'
